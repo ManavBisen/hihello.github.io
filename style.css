@@ -372,7 +372,7 @@ body {
     .item img{
         width: 40vw;
         height: 40vw;
-        object-fit: cover;
+        object-fit: contain;
         object-position: top center;
         border-radius: 50%;
         
